@@ -44,7 +44,7 @@ public class SchoolBean
    private void populateSubjectList()
    {
         subjectList.add("Grammar & Punctuation");
-        subjectList.add("numeracy");
+        subjectList.add("Numeracy");
         subjectList.add("Persuasive Writing");
         subjectList.add("Reading");
         subjectList.add("Spelling");
